@@ -527,6 +527,7 @@ html {
   bottom: 5%;
   z-index: 10;
   right: 3%;
+  font-size: 20px;
   animation: form 1s linear infinite; }
   #fixedForm:hover {
     background-color: #0d0ba1; }
